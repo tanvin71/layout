@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: yellow;
+    padding: 20px;
+}
+.content {
+    overflow: hidden;
+    margin-top: 30px
+}
+
+nav  {
+   background: yellow;
+   height: 400px;
+   width: 20%;
+   float: left;
+}
+
+article  {
+    background: yellow;
+    height: 400px;
+    width: 55%;
+    float: left;
+    margin-left: 2.5%;
+ }
+aside{    
+    background: yellow;
+    height: 400px;
+    width: 20%;
+    float: right;
+ }
+
+ footer {
+     background: yellow;
+     padding: 20px;
+     margin-top: 30px;
+ }
